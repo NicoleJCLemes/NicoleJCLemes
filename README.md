@@ -1,6 +1,8 @@
 ## Olá, Nicole aqui!
+<img align="right" alt="octocat" width="300px" src="https://user-images.githubusercontent.com/98192777/155430629-611500d2-77e7-4e7c-9f2f-dffc8024d0c3.png" />
+
 #### *Bom, agora você também, rs*
-&nbsp;
+
 No momento estudo Desenvolvimento Full-Stack na Driven Education. Comecei dia 10 de janeiro com quase zero conhecimento e zero experiência e olha onde já estamos: 
 
 <img align="left" alt="Visual Studio Code" width="50px" src="https://user-images.githubusercontent.com/98192777/155401409-dcb12f75-69e2-4ee5-8c68-72c0ce40e39c.svg" />
