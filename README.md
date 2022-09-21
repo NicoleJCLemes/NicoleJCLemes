@@ -1,9 +1,25 @@
-## Olá, Nicole aqui!
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolejclemes/)](https://www.linkedin.com/in/nicolejclemes/)
+
+
+## Olá, Nicole aqui!  
+
 <img align="right" alt="octocat" width="300px" src="https://user-images.githubusercontent.com/98192777/155430629-611500d2-77e7-4e7c-9f2f-dffc8024d0c3.png" />
 
 #### *Bom, agora você também, rs*
 
-No momento estudo Desenvolvimento Full-Stack na Driven Education. Comecei dia 10 de janeiro com quase zero conhecimento e zero experiência e olha onde já estamos: 
+- Adoro aprender e ensinar, não consigo ficar parada 🏃🏻‍♀️
+- Quando coloco algo na cabeça, vou até o fim 👊🏼
+- Não gosto muito de redes sociais, mas estou sempre conectada ⚠️
+- Gosto muito de música 🎶
+- Meu lema mais recente é: 1% melhor que ontem 📈   
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 <img align="left" alt="Visual Studio Code" width="50px" src="https://user-images.githubusercontent.com/98192777/155401409-dcb12f75-69e2-4ee5-8c68-72c0ce40e39c.svg" />
 
@@ -13,19 +29,26 @@ No momento estudo Desenvolvimento Full-Stack na Driven Education. Comecei dia 10
 
 <img align="left" alt="Javascript" width="50px" src="https://user-images.githubusercontent.com/98192777/155401406-0e303b8f-13ec-4d56-bbc7-a63cf40f01d9.svg" />
 
-&nbsp;
+<img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+<img align="left" alt="Node" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+
+<img align="left" alt="TypeScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+
+<img align="left" alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+<img align="left" alt="GitHub" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+<img align="left" alt="Postgres" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+
+<img align="left" alt="MongoDB" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+
+<img align="left" alt="Docker" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+
+<img align="left" alt="Amazon Web Service" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+
+<img align="left" alt="Jest" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />   
 
 &nbsp;
 
-Continua nos próximos capítulos, rs
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+&nbsp;
