@@ -25,6 +25,10 @@
 
 <img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/98192777/155401403-2cbe7999-ac08-49dc-8e08-b7341fbf1edd.svg" />
 
+<img align="left" alt="Dart" width="50px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
+
+<img align="left" alt="Flutter" width="50px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
+
 <img align="left" alt="CSS3" width="50px" src="https://user-images.githubusercontent.com/98192777/155401399-be85477f-1263-4456-9dcf-15d6a7daba46.svg" />
 
 <img align="left" alt="Javascript" width="50px" src="https://user-images.githubusercontent.com/98192777/155401406-0e303b8f-13ec-4d56-bbc7-a63cf40f01d9.svg" />
